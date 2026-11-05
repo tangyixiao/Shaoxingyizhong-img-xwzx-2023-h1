@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "藕紫、浅粉与磨砂纸的春夏样本册：以真实彩色小物照片的规整盒阵作为主图，让讲台与集体照以两片大开页相对摆放；图像大小不同，保留物件细节但不美化人物。事实边界：2023 上半年路径分片，不能仅凭照片把物件命名为具体课程成果。",
+    "layout": "catalog",
+    "palette": {
+      "light": {
+        "bg": "#E8DDE9",
+        "surface": "#F6EDF2",
+        "ink": "#453548",
+        "muted": "#6f5d74",
+        "accent": "#775885"
+      },
+      "dark": {
+        "bg": "#261D2C",
+        "surface": "#3A2B43",
+        "ink": "#F1E7F4",
+        "muted": "#bba6c5",
+        "accent": "#d1b1e1"
+      }
+    },
+    "threeConcept": "Three.js 建立浅紫色样本抽屉，真实照片贴在抽屉底板上；抽屉盖翻起露出月份路径条，避免把照片中的每个物件重建成猜测的3D模型。",
+    "distinctiveInteraction": "打开抽屉选择已采样照片，左侧元数据对应更新；可切完整比例与适应画框，默认完整比例以避免误裁物件。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "活动颁奖合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/5/202305240909198811.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/5/202305240909198811.jpg",
+      "path": "UploadFiles/xwzx/2023/5/202305240909198811.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "讲堂演讲，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/6/202306251437351910.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/6/202306251437351910.jpg",
+      "path": "UploadFiles/xwzx/2023/6/202306251437351910.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "手工制作展示，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/5/202305181241084613.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h1/blob/main/UploadFiles/xwzx/2023/5/202305181241084613.jpg",
+      "path": "UploadFiles/xwzx/2023/5/202305181241084613.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
